@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bxS4UDsFTlBjBoIaqxUUbWyaUd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -71,6 +75,7 @@
       <updated>1589572060342</updated>
       <workItem from="1589572063929" duration="17709000" />
       <workItem from="1593109598464" duration="98000" />
+      <workItem from="1601945990023" duration="633000" />
     </task>
     <servers />
   </component>
@@ -78,33 +83,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="487" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1589657115873">
+    <state width="1321" height="159" key="GridCell.Tab.0.bottom" timestamp="1601946944084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="487" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589657115873" />
-    <state width="1321" height="159" key="GridCell.Tab.0.bottom" timestamp="1589658561436">
+    <state width="1321" height="159" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601946944084" />
+    <state width="1321" height="159" key="GridCell.Tab.0.center" timestamp="1601946944084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="159" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589658561436" />
-    <state width="1321" height="159" key="GridCell.Tab.0.center" timestamp="1589658561436">
+    <state width="1321" height="159" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601946944084" />
+    <state width="1321" height="159" key="GridCell.Tab.0.left" timestamp="1601946944084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="159" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589658561436" />
-    <state width="1321" height="159" key="GridCell.Tab.0.left" timestamp="1589658561436">
+    <state width="1321" height="159" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601946944084" />
+    <state width="1321" height="159" key="GridCell.Tab.0.right" timestamp="1601946944084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="159" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589658561436" />
-    <state width="1321" height="159" key="GridCell.Tab.0.right" timestamp="1589658561436">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1321" height="159" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589658561436" />
-    <state x="64" y="66" key="new project wizard" timestamp="1593109692337">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="64" y="66" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593109692337" />
-    <state x="388" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1589642743223">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="388" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1589642743223" />
+    <state width="1321" height="159" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601946944084" />
   </component>
 </project>
